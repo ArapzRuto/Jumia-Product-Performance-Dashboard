@@ -12,9 +12,9 @@
 
 The following columns were created to facilitate data analysis
 
--**Discount Amount (KSh)**: Old Price minus Current Price =C2-B2
+**Discount Amount (KSh)**: Old Price minus Current Price =C2-B2
 
--**% Discount** = Amount/Old Price =(D2/C2)
+**% Discount** = Amount/Old Price =(D2/C2)
 
 **Rating Category**:
 =IFS(H3<3,"Poor",AND(H3>=3,H3<4.5),"Average",      H3>=4.5,"High")
@@ -39,9 +39,9 @@ o	Excellent for ratings of 4.5 and above
 -Average % Discount	0.367141
 -Average rating	3.894643
 	
-Trend and Relationship Analysis
-Analyze and interpret:
-•	The relationship between discount percentage and number of reviews
+**Trend and Relationship Analysis**
+
+1.The relationship between discount percentage and number of reviews
 %Discount	Count of Review
 0.0126382306477093-0.112638230647709	13
 0.112638230647709-0.212638230647709	7
