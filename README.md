@@ -121,7 +121,7 @@ Create a single interactive Excel dashboard containing the following sections:
 
 •	Visualizations showing discount percentage versus reviews
 
-![Higher-rated products Vs reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Whether%20higher-rated%20products%20tend%20to%20have%20more%20reviews.jpg)
+![discount percentage vs reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Visualizations%20showing%20discount%20percentage%20versus%20reviews.jpg)
  
 •	Visualizations showing rating versus reviews
 
