@@ -101,7 +101,7 @@ Create a single interactive Excel dashboard containing the following sections:
 
 **Overview**
 
-![Overview]([https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Whether%20higher-rated%20products%20tend%20to%20have%20more%20reviews.jpg](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Overview.jpg)
+![Overview]([https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Whether%20higher-rated%20products%20tend%20to%20have%20more%20reviews.jpg]
 
 **Product Performance Analysis**
 
