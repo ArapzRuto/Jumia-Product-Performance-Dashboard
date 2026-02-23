@@ -43,7 +43,7 @@ o	Excellent for ratings of 4.5 and above
 
 **Descriptive Analysis**
 
-![Descriptive Analysis](image-url))
+![Descriptive Analysis](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Descriptive%20Analysis.jpg)
 	
 **Trend and Relationship Analysis**
 
