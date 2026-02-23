@@ -24,10 +24,13 @@ The following columns were created to facilitate data analysis
 =IFS(H3<3,"Poor",AND(H3>=3,H3<4.5),"Average",      H3>=4.5,"High")
 
 o	Poor for ratings below 3
+
 o	Average for ratings between 3 and 4.4
+
 o	Excellent for ratings of 4.5 and above
 
 **Discount Category:**
+
 =IF(E2<20%,"Poor Discount",IF(E2>=40%,"High Discount","Medium Discount"))
 
 -Low Discount for discounts below 20%, 	
