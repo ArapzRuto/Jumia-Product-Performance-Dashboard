@@ -83,7 +83,7 @@ Most products with high review volumes fall into the "Average" rating category. 
 
 •	The top 10 products with the most reviews
 
-![Higher-rated products Vs reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Whether%20higher-rated%20products%20tend%20to%20have%20more%20reviews.jpg)
+![Top 10 products with the most reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/The%20top%2010%20products%20with%20the%20most%20reviews.jpg)
 
 •	The top 5 highest-rated and bottom 5 lowest-rated products
 
