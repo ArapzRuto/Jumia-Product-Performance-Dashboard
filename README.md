@@ -65,12 +65,8 @@ Customers are highly motivated to purchase and leave feedback when a High Discou
 
 High discounts are the primary driver of customer engagement, accounting for 55% of the total 112 reviews collected. Despite this high volume of interaction, the vast majority of feedback is categorized as "Average," representing 68.7% of all ratings. Ultimately, the data indicates that while aggressive pricing successfully generates review quantity, it does not proportionally increase high customer satisfaction.
 •	Whether higher-rated products tend to have more reviews
-Sum of Review	Rating Category			
-Discount Category	Average	High	Poor	Grand Total
-High Discount	526.00	77.00	147.00	750.00
-Medium Discount	203.00	249.00	16.00	468.00
-Poor Discount	209.00	5.00	6.00	220.00
-Grand Total	938.00	331.00	169.00	1438.00
+
+![Higher-rated products Vs reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Descriptive%20Analysis.jpg)
 •	
 Most products with high review volumes fall into the "Average" rating category. Ratings naturally stabilize as more diverse feedback is collected.
 
