@@ -87,7 +87,7 @@ Most products with high review volumes fall into the "Average" rating category. 
 
 •	The top 5 highest-rated and bottom 5 lowest-rated products
 
-![Higher-rated products Vs reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Whether%20higher-rated%20products%20tend%20to%20have%20more%20reviews.jpg)
+![Top 5 highest-rated Vs bottom 5 lowest-rated products](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/The%20top%205%20highest-rated%20and%20bottom%205%20lowest-rated%20products%20.jpg)
 
 •	A comparison between high-discount and low-discount products based on average rating and number of reviews
 
