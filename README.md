@@ -3,9 +3,13 @@
 ##**Data cleaning and preparation**
 
 -The product column was converted into  text
+
 -Current price and old price were converted into numeric
+
 -Product category changed into text
+
 -Review and rating changed to numeric
+
 -The dataset had no duplicates
 
 ##**Data Enrichment**
@@ -27,7 +31,9 @@ o	Excellent for ratings of 4.5 and above
 =IF(E2<20%,"Poor Discount",IF(E2>=40%,"High Discount","Medium Discount"))
 
 -Low Discount for discounts below 20%, 	
+
 -Medium Discount for discounts between 20% and 40%
+
 -High Discount for discounts above 40%
 
 #**Data Analysis**
@@ -35,13 +41,17 @@ o	Excellent for ratings of 4.5 and above
 **Descriptive Analysis**
 
 -Average Current price	1,186.89
+
 -Average Old price	1811.107
+
 -Average % Discount	0.367141
+
 -Average rating	3.894643
 	
 **Trend and Relationship Analysis**
 
 1.The relationship between discount percentage and number of reviews
+
 %Discount	Count of Review
 0.0126382306477093-0.112638230647709	13
 0.112638230647709-0.212638230647709	7
