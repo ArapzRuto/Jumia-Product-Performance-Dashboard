@@ -60,11 +60,8 @@ Deeper discounts do not drive higher ratings. Instead, Medium Discount products 
 Customers are highly motivated to purchase and leave feedback when a High Discount is present. This suggests that while people are buying because of the discounts, the product experience itself is meeting expectations but not necessarily exceeding them.
 
 3.Whether higher discounts lead to increased customer engagement
-Discount Category	Count of Review
-High Discount	62
-Medium Discount	32
-Poor Discount	18
-Grand Total	112
+
+![Discounts Vs customer engagement](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Descriptive%20Analysis.jpg)
 
 High discounts are the primary driver of customer engagement, accounting for 55% of the total 112 reviews collected. Despite this high volume of interaction, the vast majority of feedback is categorized as "Average," representing 68.7% of all ratings. Ultimately, the data indicates that while aggressive pricing successfully generates review quantity, it does not proportionally increase high customer satisfaction.
 •	Whether higher-rated products tend to have more reviews
