@@ -61,20 +61,27 @@ Customers are highly motivated to purchase and leave feedback when a High Discou
 
 3.Whether higher discounts lead to increased customer engagement
 
-![Discounts Vs customer engagement](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Descriptive%20Analysis.jpg)
+![Discounts Vs customer engagement](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Whether%20higher%20discounts%20lead%20to%20increased%20customer%20engagement.jpg)
 
-High discounts are the primary driver of customer engagement, accounting for 55% of the total 112 reviews collected. Despite this high volume of interaction, the vast majority of feedback is categorized as "Average," representing 68.7% of all ratings. Ultimately, the data indicates that while aggressive pricing successfully generates review quantity, it does not proportionally increase high customer satisfaction.
-•	Whether higher-rated products tend to have more reviews
+High discounts are the primary driver of customer engagement, accounting for 55% of the total 112 reviews collected. Despite this high volume of interaction, the vast majority of feedback is categorized as "Average," representing 68.7% of all ratings. Ultimately, the data indicates that while aggressive pricing successfully generates 
+review quantity, it does not proportionally increase high customer satisfaction.
+
+4. Whether higher-rated products tend to have more reviews
 
 ![Higher-rated products Vs reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Whether%20higher-rated%20products%20tend%20to%20have%20more%20reviews.jpg)
-•	
+
 Most products with high review volumes fall into the "Average" rating category. Ratings naturally stabilize as more diverse feedback is collected.
 
-Product Performance Analysis
-Identify:
-•	The top 10 products with the highest discounts
+##**Product Performance Analysis**
+
+**Identify:**
+
+-The top 10 products with the highest discounts
+
 The top 10 products with the highest discounts 	
+
 Product	Sum of DiscountAmount
+
 32PCS Portable Cordless Drill Set With Cyclic Battery Drive -26 Variable Speed	2393.00
 5-PCS Stainless Steel Cooking Pot Set With Steamed Slices	2585.00
 Angle Measuring Tool Full Metal Multi Angle Measuring Tool	1399.00
