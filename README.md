@@ -49,15 +49,7 @@ o	Excellent for ratings of 4.5 and above
 
 1.The relationship between discount percentage and number of reviews
 
-%Discount	Count of Review
-0.0126382306477093-0.112638230647709	13
-0.112638230647709-0.212638230647709	7
-0.212638230647709-0.312638230647709	12
-0.312638230647709-0.412638230647709	20
-0.412638230647709-0.512638230647709	48
-0.512638230647709-0.612638230647709	11
-0.612638230647709-0.712638230647709	1
-Grand Total	112
+![Discount percentage Vs number of reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Descriptive%20Analysis.jpg)
 
 Deeper discounts do not drive higher ratings. Instead, Medium Discount products outperform others in customer satisfaction. In contrast, high-discount items carry a higher risk of poor ratings, possibly because quality expectations are not met despite the low price.
 •	The relationship between rating and number of reviews
