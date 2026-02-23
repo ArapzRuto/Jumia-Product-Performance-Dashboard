@@ -1,5 +1,7 @@
-Jumia Product Performance Dashboard
-Data cleaning and preparation
+#Jumia Product Performance Dashboard
+
+#Data cleaning and preparation
+
 The product column was converted into  text
 Current price and old price were converted into numeric
 Product category changed into text
