@@ -2,16 +2,19 @@
 
 ##**Data cleaning and preparation**
 
-The product column was converted into  text
-Current price and old price were converted into numeric
-Product category changed into text
-Review and rating changed to numeric
-The dataset had no duplicates
-Data Enrichment
+-The product column was converted into  text
+-Current price and old price were converted into numeric
+-Product category changed into text
+-Review and rating changed to numeric
+-The dataset had no duplicates
+
+##**Data Enrichment**
+
 The following columns were created to facilitate data analysis
-Discount Amount (KSh): Old Price minus Current Price =C2-B2
-% Discount = Amount/Old Price =(D2/C2)
-Rating Category:
+
+-**Discount Amount (KSh)**: Old Price minus Current Price =C2-B2
+-**% Discount** = Amount/Old Price =(D2/C2)
+**Rating Category**:
 =IFS(H3<3,"Poor",AND(H3>=3,H3<4.5),"Average",      H3>=4.5,"High")
 o	Poor for ratings below 3
 o	Average for ratings between 3 and 4.4
