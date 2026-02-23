@@ -131,7 +131,7 @@ Create a single interactive Excel dashboard containing the following sections:
 
 •	Breakdown of products by rating category
 
-![Higher-rated products Vs reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Whether%20higher-rated%20products%20tend%20to%20have%20more%20reviews.jpg)
+![Products by rating category](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Breakdown%20of%20products%20by%20rating%20category.jpg)
  
 •	Breakdown of products by discount category
 
