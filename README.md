@@ -43,7 +43,7 @@ o	Excellent for ratings of 4.5 and above
 
 **Descriptive Analysis**
 
-![Descriptive Analysis](![Alt text](image-url))
+![Descriptive Analysis](image-url))
 	
 **Trend and Relationship Analysis**
 
