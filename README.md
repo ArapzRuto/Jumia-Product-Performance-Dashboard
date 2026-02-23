@@ -91,7 +91,7 @@ Most products with high review volumes fall into the "Average" rating category. 
 
 •	A comparison between high-discount and low-discount products based on average rating and number of reviews
 
- ![Higher-rated products Vs reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Whether%20higher-rated%20products%20tend%20to%20have%20more%20reviews.jpg)
+ ![comparison between high-discount and low-discount products based on average rating and number of reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/A%20comparison%20between%20high-discount%20and%20low-discount%20products%20based%20on%20average%20rating%20and%20number%20of%20reviews.jpg)
 
 #**Dashboard Design**
 
