@@ -139,4 +139,4 @@ Create a single interactive Excel dashboard containing the following sections:
  
 #**Dashboard**
  
-![Higher-rated products Vs reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Whether%20higher-rated%20products%20tend%20to%20have%20more%20reviews.jpg)
+![Dasboard](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Dashboard.jpg)
