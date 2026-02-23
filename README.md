@@ -111,7 +111,7 @@ Create a single interactive Excel dashboard containing the following sections:
 
 **Top products by number of reviews**
 
-![Top products by number of reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Whether%20higher-rated%20products%20tend%20to%20have%20more%20reviews.jpg)
+![Top products by number of reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Top%20products%20by%20number%20of%20reviews.jpg)
 
 **Top products by discount percentage**
 
