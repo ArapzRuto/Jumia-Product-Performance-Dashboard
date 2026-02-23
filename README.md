@@ -54,7 +54,7 @@ o	Excellent for ratings of 4.5 and above
 Deeper discounts do not drive higher ratings. Instead, Medium Discount products outperform others in customer satisfaction. In contrast, high-discount items carry a higher risk of poor ratings, possibly because quality expectations are not met despite the low price.
 
 2.The relationship between rating and number of reviews
-![Rating Vs number of reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/The%20relationship%20between%20discount%20percentage%20and%20number%20of%20reviews.jpg)
+![Rating Vs number of reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Whether%20higher%20discounts%20lead%20to%20increased%20customer%20engagement.jpg)
 
 Customers are highly motivated to purchase and leave feedback when a High Discount is present. This suggests that while people are buying because of the discounts, the product experience itself is meeting expectations but not necessarily exceeding them.
 •	Whether higher discounts lead to increased customer engagement
