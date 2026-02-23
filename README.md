@@ -13,22 +13,31 @@
 The following columns were created to facilitate data analysis
 
 -**Discount Amount (KSh)**: Old Price minus Current Price =C2-B2
+
 -**% Discount** = Amount/Old Price =(D2/C2)
+
 **Rating Category**:
 =IFS(H3<3,"Poor",AND(H3>=3,H3<4.5),"Average",      H3>=4.5,"High")
+
 o	Poor for ratings below 3
 o	Average for ratings between 3 and 4.4
 o	Excellent for ratings of 4.5 and above
-Discount Category:
+
+**Discount Category:**
 =IF(E2<20%,"Poor Discount",IF(E2>=40%,"High Discount","Medium Discount"))
-o	Low Discount for discounts below 20%, 	Medium Discount for discounts between 20% and 40%
-•	High Discount for discounts above 40%
-Data Analysis
-Descriptive Analysis
-Average Current price	1,186.89
-Average Old price	1811.107
-Average % Discount	0.367141
-Average rating	3.894643
+
+-Low Discount for discounts below 20%, 	
+-Medium Discount for discounts between 20% and 40%
+-High Discount for discounts above 40%
+
+#**Data Analysis**
+
+**Descriptive Analysis**
+
+-Average Current price	1,186.89
+-Average Old price	1811.107
+-Average % Discount	0.367141
+-Average rating	3.894643
 	
 Trend and Relationship Analysis
 Analyze and interpret:
