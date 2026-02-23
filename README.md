@@ -125,7 +125,7 @@ Create a single interactive Excel dashboard containing the following sections:
  
 •	Visualizations showing rating versus reviews
 
-![Visualizations showing rating versus reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Whether%20higher-rated%20products%20tend%20to%20have%20more%20reviews.jpg)
+![Visualizations showing rating versus reviews](https://github.com/ArapzRuto/Jumia-Product-Performance-Dashboard/blob/main/Visualizations%20showing%20rating%20versus%20reviews.jpg)
  
 **Product Categories**
 
