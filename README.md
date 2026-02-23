@@ -43,13 +43,7 @@ o	Excellent for ratings of 4.5 and above
 
 **Descriptive Analysis**
 
--Average Current price	1,186.89
-
--Average Old price	1811.107
-
--Average % Discount	0.367141
-
--Average rating	3.894643
+![Descriptive Analysis](image-url)
 	
 **Trend and Relationship Analysis**
 
